@@ -21,7 +21,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "我的个人博客"
 
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 游戏
 name                     : "Your Name"
 #description              : "An amazing website."
 description              : "分享网络资源."
